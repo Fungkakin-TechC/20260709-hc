@@ -1,0 +1,18 @@
+@charset "utf-8";
+.A{
+    background-image: linear-gradient(to right,#55bfe9,rgb(63, 52, 176));
+}
+.word{
+    font-family: fantasy;
+    font-size: 30px;
+    background-color: rgb(43, 95, 226);
+}
+.word2{
+    background-image: url(re.jpg);
+    background-repeat: no-repeat;
+    color: aliceblue;
+    font-size: 60px;
+}
+body{
+    background-color:rgb(0, 51, 162);
+}
