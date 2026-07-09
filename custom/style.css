@@ -9,7 +9,7 @@
 }
 .word2{
     background-image: url(re.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     color: aliceblue;
     font-size: 60px;
 }
